@@ -1,8 +1,5 @@
 # PMS_AR_IOS
 
-## Ornekler
-https://drive.google.com/a/katihal.com/file/d/0B87v-7eFhy4NcFkzdE1XT3kzbW8/view?usp=sharing
-
 ## Aciklama
 OpenCV uzerinde kurabilecegimiz uygun seylerden biri SURF (http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_surf_intro/py_surf_intro.html) digeri de Haar Cascade Classification (http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) 
 
